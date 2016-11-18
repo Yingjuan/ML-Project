@@ -15,3 +15,5 @@ Report top features and their weights
 
 
 Sahand Zeinali (A20318383):
+Regression model use research
+Build Lasso regression model with different parameters and report MSE, R2
