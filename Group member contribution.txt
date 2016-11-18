@@ -1,0 +1,17 @@
+Group Member Contribution
+
+Ying Wu (A20370189): 
+Load processed data, Print data shape
+Performance measures description
+Report performance of baselines
+Build linear regression model using different parameter settings
+
+
+Yingjuan Wu (A20326320):
+Continuous features scaling
+Build ridge regression model with different parameters and report MSE, R2
+Build Bayesian ridge regression model with different parameters and report MSE, R2
+Report top features and their weights
+
+
+Sahand Zeinali (A20318383):
