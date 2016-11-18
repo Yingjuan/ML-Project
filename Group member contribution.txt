@@ -4,7 +4,7 @@ Ying Wu (A20370189):
 Load processed data, Print data shape
 Performance measures description
 Report performance of baselines
-Build linear regression model using different parameter settings
+Build linear regression model using different parameter settings and report MSE, R2
 
 
 Yingjuan Wu (A20326320):
